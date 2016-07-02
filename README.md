@@ -1,7 +1,7 @@
 # PageScroll
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/ZhengHe-MD/PageScroll/master/LICENSE)
 
-this is a react component that implements the [ScrllTrigger](https://github.com/terwanerik/ScrollTrigger)
+this is a react component that implements the [ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)
 
 # Demo
 
